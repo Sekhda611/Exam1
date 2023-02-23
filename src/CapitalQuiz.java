@@ -10,8 +10,8 @@ import java.util.Scanner;
           System.out.println("A) Paris");
           System.out.println("B) Berlin");
           System.out.println("C) London");
-          System.out.println("Enter your answer: ");
-          String answer  = input.nextLine();
+          System.out.println("Enter your answer a b or c:");
+          String  answer  = input.nextLine();
 
 
           switch (answer){
